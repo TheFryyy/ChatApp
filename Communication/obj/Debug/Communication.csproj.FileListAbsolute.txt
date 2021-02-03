@@ -1,0 +1,7 @@
+C:\Users\julie\Documents\Cours\C#\ChatApp\Communication\bin\Debug\Communication.exe.config
+C:\Users\julie\Documents\Cours\C#\ChatApp\Communication\bin\Debug\Communication.exe
+C:\Users\julie\Documents\Cours\C#\ChatApp\Communication\bin\Debug\Communication.pdb
+C:\Users\julie\Documents\Cours\C#\ChatApp\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Cours\C#\ChatApp\Communication\obj\Debug\Communication.exe
+C:\Users\julie\Documents\Cours\C#\ChatApp\Communication\obj\Debug\Communication.pdb
+C:\Users\julie\Documents\Cours\C#\ChatApp\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
